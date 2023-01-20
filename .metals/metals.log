@@ -1,0 +1,93 @@
+2023.01.20 20:09:31 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspace/ex_scala/.metals/lsp.trace.json or /home/gitpod/.cache/metals/lsp.trace.json
+2023.01.20 20:09:32 INFO  logging to file /workspace/ex_scala/.metals/metals.log
+2023.01.20 20:09:32 INFO  Started: Metals version 0.11.10 in workspace '/workspace/ex_scala' for client Gitpod Code - Insiders 1.75.0-insider.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/gitpod/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.20 20:09:34 INFO  time: initialize in 2.3s
+2023.01.20 20:09:37 WARN  Build server is not auto-connectable.
+2023.01.20 20:09:37 WARN  no build tool detected in workspace '/workspace/ex_scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.20 20:09:37 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:09:44 INFO  no build target found for /workspace/ex_scala/olamundo.scala. Using presentation compiler with project's scala-library version: 3.2.1
+Jan 20, 2023 8:09:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.01.20 20:09:46 INFO  time: code lens generation in 8.02s
+Jan 20, 2023 8:09:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2023.01.20 20:10:12 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:10:17 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:10:20 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:10:24 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:10:41 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:10:43 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+Jan 20, 2023 8:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+2023.01.20 20:10:47 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:11:03 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+Jan 20, 2023 8:11:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 20, 2023 8:11:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 20, 2023 8:11:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 20, 2023 8:11:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.01.20 20:12:06 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:12:09 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:12:10 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:12:13 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:12:20 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+Jan 20, 2023 8:12:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.01.20 20:14:02 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:14:18 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:14:20 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:14:56 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:15:00 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:15:09 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:15:11 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:15:12 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:15:15 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:15:17 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:15:19 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:15:21 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:15:59 INFO  shutting down Metals
+2023.01.20 20:16:12 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspace/ex_scala/.metals/lsp.trace.json or /home/gitpod/.cache/metals/lsp.trace.json
+2023.01.20 20:16:13 INFO  logging to file /workspace/ex_scala/.metals/metals.log
+2023.01.20 20:16:13 INFO  Started: Metals version 0.11.10 in workspace '/workspace/ex_scala' for client Gitpod Code - Insiders 1.75.0-insider.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/gitpod/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.20 20:16:14 INFO  time: initialize in 1.62s
+2023.01.20 20:16:17 WARN  Build server is not auto-connectable.
+2023.01.20 20:16:17 WARN  no build tool detected in workspace '/workspace/ex_scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.20 20:16:17 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+Jan 20, 2023 8:16:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.01.20 20:16:23 INFO  no build target found for /workspace/ex_scala/olamundo.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.20 20:16:26 INFO  time: code lens generation in 7.88s
+Jan 20, 2023 8:17:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2023.01.20 20:17:40 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:17:42 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:17:44 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:17:53 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:17:57 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:18:00 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:18:01 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:03 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:05 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:06 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:13 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:15 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:17 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:19 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:21 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:37 WARN  no build target for: /workspace/ex_scala/olamundo.scala
+2023.01.20 20:19:47 WARN  no build target for: /workspace/ex_scala/olamundo.scala
