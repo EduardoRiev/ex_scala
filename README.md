@@ -1,1 +1,1 @@
-# ex_scala
+Exemplos de Escala - Paradigmas
